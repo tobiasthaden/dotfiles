@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Inspired Github",
+    "editor.lineHeight": 42,
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "editor.fontFamily": "Victor Mono",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 12,
+    "editor.formatOnType": true,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.openEditors.visible": 0,
+    "php-cs-fixer.onsave": true,
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "php-cs-fixer.formatHtml": true,
+    "prettier.trailingComma": "all",
+    "editor.formatOnSave": true,
+    "diffEditor.renderSideBySide": false,
+    "breadcrumbs.enabled": true,
+    "prettier.disableLanguages": [
+        "json",
+        "yml",
+        "yaml"
+    ],
+    "tailwindCSS.emmetCompletions": true,
+    "prettier.requireConfig": true,
+    "prettier.tabWidth": 4
+}
