@@ -1,5 +1,6 @@
 tap 'homebrew/bundle'
 
+brew 'cocoapods'
 brew 'gh'
 brew 'git'
 brew 'mackup'
