@@ -9,6 +9,9 @@ alias sites="cd $HOME/Sites"
 # PHP
 alias composer:fresh="rm -rf vendor/ composer.lock && composer install"
 
+# Laravel Sail
+alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
+
 # JS
 alias node:fresh="rm -rf node_modules/ package-lock.json && npm install"
 
