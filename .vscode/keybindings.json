@@ -1,0 +1,60 @@
+[
+    {
+        "key": "cmd+r",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "shift+cmd+o",
+        "command": "-workbench.action.gotoSymbol"
+    },
+    {
+        "key": "shift+cmd+r",
+        "command": "workbench.action.showAllSymbols"
+    },
+    {
+        "key": "cmd+t",
+        "command": "-workbench.action.showAllSymbols"
+    },
+    {
+        "key": "cmd+t",
+        "command": "better-phpunit.run"
+    },
+    {
+        "key": "cmd+k cmd+r",
+        "command": "-better-phpunit.run"
+    },
+    {
+        "key": "cmd+k cmd+f",
+        "command": "-better-phpunit.run-file"
+    },
+    {
+        "key": "shift+cmd+t",
+        "command": "better-phpunit.run-previous"
+    },
+    {
+        "key": "cmd+k cmd+p",
+        "command": "-better-phpunit.run-previous"
+    },
+    {
+        "key": "alt+enter",
+        "command": "editor.action.showContextMenu",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+f10",
+        "command": "-editor.action.showContextMenu",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+y",
+        "command": "selectAll"
+    },
+    {
+        "key": "ctrl+k ctrl+k",
+        "command": "workbench.action.toggleZenMode"
+    },
+    {
+        "key": "cmd+k z",
+        "command": "-workbench.action.toggleZenMode"
+    }
+]
