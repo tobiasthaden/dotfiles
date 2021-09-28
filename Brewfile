@@ -1,13 +1,15 @@
+tap 'homebrew/cask'
 tap 'homebrew/bundle'
 
 brew 'cocoapods'
 brew 'gh'
 brew 'git'
 brew 'mackup'
-brew 'docker'
 brew 'php'
 brew 'composer'
 brew 'nginx'
 brew 'node'
 brew 'redis'
 brew 'yarn'
+
+cask 'docker'
