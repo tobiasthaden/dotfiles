@@ -15,7 +15,6 @@ brew 'yarn'
 
 cask 'docker'
 cask 'firefox'
-cask 'font-victor-mono'
 cask 'github'
 cask 'iterm2'
 cask 'postman'
@@ -25,3 +24,5 @@ cask 'slack'
 cask 'spotify'
 cask 'transmit'
 cask 'visual-studio-code'
+
+cask 'font-victor-mono'
