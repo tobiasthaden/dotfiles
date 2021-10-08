@@ -1,4 +1,5 @@
 tap 'homebrew/cask'
+tap 'homebrew/cask-fonts'
 tap 'homebrew/bundle'
 
 brew 'cocoapods'
@@ -23,3 +24,5 @@ cask 'slack'
 cask 'spotify'
 cask 'transmit'
 cask 'visual-studio-code'
+
+cask 'font-victor-mono'
