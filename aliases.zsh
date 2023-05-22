@@ -11,6 +11,8 @@ alias sites="cd $HOME/Sites"
 # PHP
 alias composer:fresh="rm -rf vendor/ composer.lock && composer install"
 
+alias laravel='(){curl -s https://laravel.build/$1 | bash;}'
+
 # Laravel Sail
 alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
 
