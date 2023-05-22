@@ -20,7 +20,6 @@
     "editor.padding.top": 50,
     "editor.quickSuggestionsDelay": 0,
     "editor.renderControlCharacters": false,
-    "editor.renderIndentGuides": false,
     "editor.renderLineHighlight": "none",
     "editor.renderWhitespace": "none",
     "explorer.confirmDragAndDrop": false,
@@ -44,5 +43,6 @@
     "workbench.startupEditor": "none",
     "workbench.statusBar.visible": false,
     "workbench.tree.indent": 20,
-    "zenMode.fullScreen": false
+    "zenMode.fullScreen": false,
+    "editor.guides.indentation": false
 }
