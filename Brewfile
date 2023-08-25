@@ -10,6 +10,7 @@ brew 'php'
 brew 'composer'
 brew 'nginx'
 brew 'node'
+brew 'phive'
 brew 'redis'
 brew 'yarn'
 
