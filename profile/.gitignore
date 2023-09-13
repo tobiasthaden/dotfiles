@@ -1,0 +1,5 @@
+!.gitignore
+
+# Ignore Profiles
+pirateship.zsh
+rsf.zsh
