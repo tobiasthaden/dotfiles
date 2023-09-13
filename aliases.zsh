@@ -6,7 +6,7 @@ alias reload:shell="source $HOME/.zshrc"
 # Change directory
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
-alias sites="cd $HOME/Sites"
+alias sites="cd $SITES"
 
 # PHP
 alias composer:fresh="rm -rf vendor/ composer.lock && composer install"
