@@ -78,6 +78,12 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
+# Register Profile
+function profile() {
+    PROFILE=$1
+    source $DOTFILES/profile/$PROFILE.zsh
+}
+
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
