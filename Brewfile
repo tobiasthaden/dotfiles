@@ -2,6 +2,7 @@ tap 'homebrew/cask'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/bundle'
 
+brew 'ansible'
 brew 'awscli'
 brew 'cocoapods'
 brew 'gh'
