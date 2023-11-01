@@ -1,6 +1,7 @@
 tap 'homebrew/cask'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/bundle'
+tap 'common-fate/granted'
 
 brew 'ansible'
 brew 'awscli'
@@ -15,6 +16,7 @@ brew 'node'
 brew 'phive'
 brew 'redis'
 brew 'yarn'
+brew 'granted'
 
 cask 'session-manager-plugin'
 cask 'docker'
