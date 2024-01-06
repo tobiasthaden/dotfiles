@@ -35,7 +35,6 @@
     "prettier.trailingComma": "all",
     "screencastMode.verticalOffset": 40,
     "tailwindCSS.emmetCompletions": true,
-    "workbench.activityBar.visible": false,
     "workbench.colorCustomizations": {},
     "workbench.colorTheme": "GitHub Dark",
     "workbench.iconTheme": "spectrum-vscode-icons",
@@ -44,5 +43,6 @@
     "workbench.statusBar.visible": false,
     "workbench.tree.indent": 20,
     "zenMode.fullScreen": false,
-    "editor.guides.indentation": false
+    "editor.guides.indentation": false,
+    "workbench.activityBar.location": "hidden"
 }
