@@ -5,7 +5,6 @@ tap 'common-fate/granted'
 
 brew 'ansible'
 brew 'awscli'
-brew 'cocoapods'
 brew 'gh'
 brew 'git'
 brew 'mackup'
